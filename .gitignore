@@ -12,3 +12,6 @@
 
 # Ignore all files from de IDE
 .idea/*
+
+# Ignore uploaded test images.
+/public/uploads
